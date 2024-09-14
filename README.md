@@ -1,1 +1,1 @@
-tmr do
+This project is uploaded to the AWS S3 bucket (kidyult), containing only 1 html file that includes both the frontend and backend (javascript) code. No library/framework is used but multiple files can be uploaded and processed accurately. Tests are NOT written for this application.
